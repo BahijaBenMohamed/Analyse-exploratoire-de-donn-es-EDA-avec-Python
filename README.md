@@ -1,50 +1,36 @@
-📊 Analyse Exploratoire de Données (EDA) avec Python
-Description
 
-Analyse exploratoire complète de datasets pour extraire des insights significatifs.
-Le projet comprend nettoyage des données, visualisation et interprétation statistique.
+## Analyse-exploratoire-de-donn-es-EDA-avec-Python 
 
-Technologies utilisées
+```markdown
+# 📊 Analyse Exploratoire de Données (EDA) avec Python
 
-Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-77AC30?style=flat-square&logo=seaborn)
 
-Pandas
+## Description
+Analyse exploratoire complète pour extraire insights pertinents à partir de datasets.  
+Nettoyage, visualisation et interprétation statistique.
 
-NumPy
+## Étapes
+1. Chargement et nettoyage des données  
+2. Analyse descriptive et corrélations  
+3. Visualisation des distributions et anomalies  
+4. Extraction de patterns et insights
 
-Matplotlib
+## Résultats
+- Graphiques interactifs  
+- Corrélations et insights exploitables  
+- Rapport clair pour prise de décision
 
-Seaborn
-
-Jupyter Notebook
-
-Étapes
-
-Chargement et nettoyage des données
-
-Analyse statistique descriptive
-
-Visualisation des distributions et corrélations
-
-Identification des anomalies et patterns intéressants
-
-Instructions
-
-Cloner le dépôt :
-
+## Installation & Usage
+1. Cloner le dépôt :
+```bash
 git clone https://github.com/BahijaBenMohamed/Analyse-exploratoire-de-donn-es-EDA-avec-Python.git
 
-
-Ouvrir le notebook EDA.ipynb dans Jupyter Notebook.
-
-Résultats
-
-Visualisations interactives
-
-Corrélations entre les variables
-
-Insights concrets pour prise de décision
-
-Auteur
-
+## Auteur
 Bahija BenMohamed
+
+## Licence
+MIT
